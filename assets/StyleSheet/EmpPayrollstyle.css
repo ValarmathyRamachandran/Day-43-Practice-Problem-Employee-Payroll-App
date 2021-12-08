@@ -96,16 +96,6 @@ label {
     opacity: 1;
     font-family: Roboto;
 }
-#gender {
-        font-size: 14px;
-        color: #42515f;
-        opacity: 1;
-        font-family: Roboto;
-}
-.femalegender{
-    padding-left: 10px;
-}
-
 
 .input {
     width: 100%;
